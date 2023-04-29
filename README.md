@@ -16,7 +16,6 @@
   ####  :clipboard: Used 
   
 </div>
-<br/>
 <div align="center">
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
