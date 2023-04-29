@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://www.youtube.com/channel/UCEnHfKlQ4by-vTt0JDCcHPA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://www.youtube.com/channel/UCEnHfKlQ4by-vTt0JDCcHPA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <a href="https://www.youtube.com/channel/UCEnHfKlQ4by-vTt0JDCcHPA" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 
 
 ### Use GameEngine
