@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20World&animation=fadeIn&fontSize=90)
-
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=250&section=header&text=Hello%20World!&desc=Isaac's%20Github%20Profile&animation=fadeIn&fontSize=70&fontAlignY=40)
 
 <!--
 **Isaacu24/Isaacu24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaac&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isaacu24&show_icons=true&theme=radical)
