@@ -10,7 +10,7 @@
 </div>
  
 <div align="center">
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://www.youtube.com/channel/UCEnHfKlQ4by-vTt0JDCcHPA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <a href="https://kkadalg.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+<a href="https://military-partridge-bd8.notion.site/HOME-396e1caa56704ec3b8b974c145acd53d" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <a href="https://www.youtube.com/channel/UCEnHfKlQ4by-vTt0JDCcHPA" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> <a href="https://kkadalg.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 </div>
   
 <br/>
