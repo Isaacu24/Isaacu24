@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=Waving&height=250&section=header&text=Hello%20World!&desc=Isaac's%20Github%20Profile&animation=fadeIn&fontSize=70&fontAlignY=40&color=gradient)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&height=250&section=header&text=Hello%20World!&desc=%20Profile&animation=fadeIn&fontSize=70&fontAlignY=40&color=gradient)
  
  <div align="center">
 
